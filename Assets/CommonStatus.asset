@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04275902b0ac4236b2bc75a9260bdeec, type: 3}
   m_Name: CommonStatus
   m_EditorClassIdentifier: 
-  maxHP: 10
+  maxHP: 100
   maxSP: 5
   reflectSkillSPCost: 1
   reflectSuccessRate: 80
